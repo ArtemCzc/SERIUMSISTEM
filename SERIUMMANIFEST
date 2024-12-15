@@ -1,0 +1,17 @@
+{
+  "name": "Serium Wallet",
+  "short_name": "Serium",
+  "description": "A crypto wallet.",
+  "url": "https://github.com/ArtemCzc/SERIUM.git",
+  "scope": "https://github.com/ArtemCzc/SERIUM.git",
+    {
+      "src": "https://assets.onecompiler.app/432jhcm9m/432uernyw/SERIUM.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#121212",
+  "background_color": "#121212",
+  "start_url": "/",
+  "display": "standalone"
+}
